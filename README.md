@@ -1,5 +1,3 @@
-# Miguel Andres Ortiz Suarez
-# IM 165
 
 
 '''
